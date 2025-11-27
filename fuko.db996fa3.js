@@ -1,0 +1,2 @@
+!function(){"loading"===document.readyState?document.addEventListener("DOMContentLoaded",i):i();function i(){window.Jupiter?window.Jupiter.init({displayMode:"widget",formProps:{initialInputMint:"So11111111111111111111111111111111111111112",initialOutputMint:"MEMEESWgGAcYeFpNbXYqG41P9ja5sWapb62ijtfQbMS",fixedMint:"MEMEESWgGAcYeFpNbXYqG41P9ja5sWapb62ijtfQbMS"}}):console.error("Jupiter plugin failed to load.")}}();
+//# sourceMappingURL=fuko.db996fa3.js.map
